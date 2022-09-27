@@ -1,2 +1,2 @@
-# frontend_cjm
+# 최종명
 Frontend study
