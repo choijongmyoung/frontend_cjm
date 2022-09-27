@@ -1,0 +1,29 @@
+#container1{
+    /*width: 200px;*/
+    width: auto;
+    height: 200px;
+    background-color: blue;
+    display: inline-flex;
+    flex-direction: column;
+  }
+  
+  #a {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    padding: 0px;
+    text-align: center;
+    text-decoration: underline;  
+  }
+  
+  #b {
+    background-color: orange;
+    text-align: center;
+  }
+  
+  #container2{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    display: inline-flex;
+  }
