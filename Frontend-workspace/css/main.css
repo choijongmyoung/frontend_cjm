@@ -1,0 +1,31 @@
+div {
+    color:black ;
+    font: size 50px;
+    background-color : white;
+}
+
+span{
+    background-color: black;
+    font-size: medium;
+    color: red;
+}
+table{
+    width: 20%;
+    border: 2px solid rgb(247, 0, 62);
+    /* border-collapse: collapse; */
+}
+tr{
+    border: 1px solid red; /*나타나지 않음*/
+}
+td{
+    border: 5px solid rgb(16, 133, 241); /* 열 */
+    padding: 20px;
+
+}
+
+body{
+    background-color: bisque;
+    background-image: url("/images/이미지.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+} 
